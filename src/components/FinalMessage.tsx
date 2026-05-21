@@ -310,11 +310,6 @@ export default function FinalMessage() {
           </div>
         </div>
 
-        {/* Bottom mysterious text */}
-        <div className="mt-10 text-center">
-          <p className="text-[#8fd3ff]/28 text-[10px] tracking-[0.6em] uppercase">
-            The story isn&apos;t over yet...          </p>
-        </div>
       </motion.div>
 
       {/* ───────────────── ANIMATIONS ───────────────── */}
