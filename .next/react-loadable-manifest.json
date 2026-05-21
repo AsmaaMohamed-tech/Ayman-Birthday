@@ -1,0 +1,39 @@
+{
+  "app\\page.tsx -> @/components/FinalMessage": {
+    "id": "app\\page.tsx -> @/components/FinalMessage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_FinalMessage_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/Gallery": {
+    "id": "app\\page.tsx -> @/components/Gallery",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_Gallery_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/Hero": {
+    "id": "app\\page.tsx -> @/components/Hero",
+    "files": [
+      "static/css/_app-pages-browser_src_components_Hero_tsx.css",
+      "static/chunks/_app-pages-browser_src_components_Hero_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/Loader": {
+    "id": "app\\page.tsx -> @/components/Loader",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_Loader_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/Marquee": {
+    "id": "app\\page.tsx -> @/components/Marquee",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_Marquee_tsx.js"
+    ]
+  },
+  "hooks\\useSmoothScroll.ts -> @studio-freight/lenis": {
+    "id": "hooks\\useSmoothScroll.ts -> @studio-freight/lenis",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_studio-freight_lenis_dist_lenis_mjs.js"
+    ]
+  }
+}
