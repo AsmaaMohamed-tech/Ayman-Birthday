@@ -127,12 +127,11 @@ export default function FinalMessage() {
               i % 5 === 0
                 ? "#c9a96e"
                 : i % 4 === 0
-                ? "#8fd3ff"
-                : "white",
+                  ? "#8fd3ff"
+                  : "white",
             opacity: Math.random() * 0.8,
-            animation: `twinkle ${
-              2 + Math.random() * 5
-            }s ease-in-out infinite alternate`,
+            animation: `twinkle ${2 + Math.random() * 5
+              }s ease-in-out infinite alternate`,
           }}
         />
       ))}
@@ -305,7 +304,7 @@ export default function FinalMessage() {
               <div className="w-24 h-[1px] bg-[#c9a96e]/20 ml-auto mb-5" />
 
               <span className="font-display italic text-3xl text-[#c9a96e]/80">
-               From Asmaa
+                From Asmaa
               </span>
             </div>
           </div>
@@ -314,8 +313,7 @@ export default function FinalMessage() {
         {/* Bottom mysterious text */}
         <div className="mt-10 text-center">
           <p className="text-[#8fd3ff]/28 text-[10px] tracking-[0.6em] uppercase">
-            The story isn't over yet...
-          </p>
+            The story isn&apos;t over yet...          </p>
         </div>
       </motion.div>
 
