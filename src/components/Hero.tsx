@@ -183,7 +183,7 @@ export default function Hero({ onScrollCTA }: HeroProps) {
         >
           WELCOME
           <br />
-          AYMEN
+          AYMAN
         </h1>
       </div>
 
